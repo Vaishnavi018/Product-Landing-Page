@@ -1,0 +1,90 @@
+@media (max-width: 830px)
+{
+  font-size:20px;
+  font-family: 'Akaya Telivigala', cursive;
+}
+.con-head{
+  position: relative;
+  height:500px;
+}
+.navbar-brand {
+  width:80px;
+  height:50px;
+}
+.color{
+  background: #e1ccb5;
+}
+a{
+  font-family: 'Akaya Telivigala', cursive;
+  color: black;
+}
+body{
+  background-color: #e8dcc5;
+}
+section{
+  height:300px;
+  width: 400px;
+  position: absolute;
+  left: 50%;
+  margin-left: -200px;
+  margin-top: 90px;
+ 
+}
+h2{
+  font-family: 'Akaya Telivigala', cursive;
+  font-size: 48px;
+  text-shadow: 2px -1px gray;
+}
+input {
+  width: 75%;
+  padding: 5px 0;
+  font-size: 19px;
+  font-weight: 400;
+  color: black;
+  border :none;
+  border-bottom: 2px solid ;
+  outline: none;
+  background: transparent;
+  align-self: center;
+  text-indent: 6px;
+}
+
+#submit {
+  font-size:20px;
+  font-family: 'RocknRoll One', sans-serif;
+}
+#products{
+  position: relative;
+  height:500px;
+}
+ h3 {
+  font-family: 'Akaya Telivigala', cursive;
+
+}
+.functionality{
+  height:700px;
+  margin-top: 80px;
+  }
+.functionality h3 {
+  font-size: 40px;
+}
+.jumbotron{
+  padding: 14px;
+  box-shadow: 2px 2px 1px gray;
+}
+p{
+   font-family: 'RocknRoll One', sans-serif;
+}
+h4{
+  font-size: 32px;
+  font-family: 'Akaya Telivigala', cursive;
+}
+#video{
+  height: 500px;
+}
+footer{
+  height: 40px;
+  border: 1px white;
+  font-size: 20px;
+   font-family: 'RocknRoll One', sans-serif;
+}
